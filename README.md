@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Portfolio template
+
+
+![desk](https://github.com/user-attachments/assets/b83e5b4f-e937-4548-a857-f08f6b85bc73)
+![normal_portfolio_template](https://github.com/user-attachments/assets/e5b4ae02-736c-46a6-97a2-0b58346f995a)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
